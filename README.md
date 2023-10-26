@@ -1,35 +1,40 @@
-# In Progress
+Resigna - Attire rental platform
 
-## Abstract
+![Resigna   Rent attires conveniently](https://github.com/abdi-z/InternalMD/assets/92116477/30bb7846-b10e-4cf2-a28f-50eb20f58f73)
+![Resigna 2](https://github.com/abdi-z/InternalMD/assets/92116477/340649ec-7cb3-45fd-aaf4-aa4529273f81)
+![Pasted image 20231025185603](https://github.com/abdi-z/InternalMD/assets/92116477/63fca066-12f2-4904-ab4b-28485fa8e0b8)
 
-Not everyone has the privilege to buy brand new clothes that would be used only once for an occasion. Example of such can include buying sherwani that will be used only once or maybe twice for an event and will be a huge waste of money as such items start with cost of around rupees 45,000. Poshak.pk will solve the problem by allowing users to rent out these expensive clothing items for a fraction of their price e.g. 15% . This will also allow users to make some easy money by renting out their clothes that are eating dust in their closets.
+Details:
 
-## Tech Stack
-Following techs may be used in development:
+**Overview:**
 
-#### Frontend:
-React <br/>
-Chakra UI <br/>
-TypeScript <br/>
+Welcome to Resigna, an innovative online platform that revolutionizes the fashion industry by allowing users to rent out their clothes to others for a fraction of the original price. As the creator of Resigna, I've designed, developed, and launched this unique web application that's reshaping the way people think about fashion.
 
-#### Backend:
-MongoDB <br/>
-Express (RestFUL API) <br/>
-Node <br/>
+**Project Description:**
 
-#### Miscellaneous:
-Redux <br/>
-JWT Auth <br/>
-<br/>
+Resigna is more than just a clothes rental platform; it's a sustainable and affordable solution that benefits both lenders and renters. Here's an overview of the project:
 
-![Personal Attire Proj](https://user-images.githubusercontent.com/92116477/205488014-223c4b89-a7b2-4501-b981-79d7d43dd26c.png)
+- **User-Friendly Interface:** Resigna offers an intuitive and user-friendly interface for lenders and renters. Users can easily browse, search, and list clothing items, ensuring a seamless experience.
+    
+- **Secure Transactions:** We prioritize the security and privacy of our users. Resigna features secure payment gateways, personal information protection, and dispute resolution mechanisms to guarantee a safe experience for all.
+    
+- **Inventory Management:** Lenders can efficiently manage their clothing inventory, including descriptions, pricing, availability, and scheduling.
+    
+- **Communication Tools:** Resigna provides in-app communication tools, enabling lenders and renters to discuss rental details, arrange pick-up or delivery, and address any questions or concerns.
+    
+- **Ratings and Reviews:** Users can leave ratings and reviews, creating a trust-based community and promoting quality service.
+    
+- **Payment Integration:** Resigna integrates reliable payment methods, ensuring a seamless financial transaction process.
 
-### Features to complete (later on..):
-Add multiple horizontal card comps <br/>
-Recommended Price Val <br/>
-Pagination <br/>
+**Technologies Used:**
 
-Chating func <br/>
-Recommendation Sys <br/>
-Dark Mode <br/>
-
+- **Front-end:** I employed modern web development technologies including React JS, Chakra UI.
+    
+- **Back-end:** The application's back-end is built on robust server-side technologies, including Node.js and Express, ensuring efficient data processing and management.
+    
+- **Database:** Resigna relies on a scalable and secure database system, utilizing MongoDB to store user data, clothing listings, and transaction history.
+    
+- **Payment Processing:** Stripe integration enables secure and hassle-free financial transactions.
+    
+- **Hosting and Deployment:** The application is hosted on a reliable cloud infrastructure (e.g., AWS or Heroku) and utilizes continuous integration and continuous deployment (CI/CD) pipelines for efficient updates and maintenance.
+    
